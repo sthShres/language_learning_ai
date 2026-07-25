@@ -1,0 +1,728 @@
+{
+  "chapters": [
+{
+  "id": 1,
+  "title": "Greetings & Basics",
+  "lessons": [
+    {
+      "id": "1-1",
+      "title": "Saying Hello",
+      "icon": "chatbubbles-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 101,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "ज्वजलपा",
+            "pinyin": "Jwojalapa"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Hello / Greetings",
+              "mandarin": {
+                "hanzi": "ज्वजलपा",
+                "pinyin": "Jwojalapa",
+                "words": [
+                  {
+                    "hanzi": "ज्वजलपा",
+                    "pinyin": "jwojalapa",
+                    "english": "greetings"
+                  }
+                ],
+                "breakdown": "Traditional Nepalbhasa greeting."
+              }
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "type": "listening_mc",
+          "mandarin": {
+            "hanzi": "लसकुस",
+            "pinyin": "Lasakus",
+            "words": [
+              {
+                "hanzi": "लसकुस",
+                "pinyin": "lasakus",
+                "english": "goodbye"
+              }
+            ],
+            "breakdown": "Common way to say goodbye."
+          },
+          "options": [
+            { "id": 1, "english": "See you later" },
+            { "id": 2, "english": "Goodbye" },
+            { "id": 3, "english": "Good morning" }
+          ],
+          "correctOptionId": 2
+        },
+        {
+          "id": 103,
+          "type": "multiple_choice",
+          "mandarin": {
+            "hanzi": "छ्वः चंगा?",
+            "pinyin": "Chhwa changa?"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "How are you?",
+              "mandarin": {
+                "hanzi": "छ्वः चंगा?",
+                "pinyin": "Chhwa changa?",
+                "words": [
+                  {
+                    "hanzi": "छ्वः",
+                    "pinyin": "chhwa",
+                    "english": "you"
+                  },
+                  {
+                    "hanzi": "चंगा",
+                    "pinyin": "changa",
+                    "english": "fine"
+                  }
+                ],
+                "breakdown": "Used to ask someone how they are."
+              }
+            },
+            {
+              "id": 2,
+              "english": "Hello",
+              "mandarin": {
+                "hanzi": "ज्वजलपा",
+                "pinyin": "Jwojalapa",
+                "words": [
+                  {
+                    "hanzi": "ज्वजलपा",
+                    "pinyin": "jwojalapa",
+                    "english": "greetings"
+                  }
+                ],
+                "breakdown": "Traditional greeting."
+              }
+            },
+            {
+              "id": 3,
+              "english": "Goodbye",
+              "mandarin": {
+                "hanzi": "लसकुस",
+                "pinyin": "Lasakus",
+                "words": [
+                  {
+                    "hanzi": "लसकुस",
+                    "pinyin": "lasakus",
+                    "english": "goodbye"
+                  }
+                ],
+                "breakdown": "Parting phrase."
+              }
+            }
+          ],
+          "correctOptionId": 1
+        }
+      ]
+    },
+    {
+      "id": "1-2",
+      "title": "Polite Expressions",
+      "icon": "happy-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 201,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "सुभाय",
+            "pinyin": "Subhāy"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Thank you",
+              "mandarin": {
+                "hanzi": "सुभाय",
+                "pinyin": "Subhāy",
+                "words": [
+                  {
+                    "hanzi": "सुभाय",
+                    "pinyin": "subhāy",
+                    "english": "thank you"
+                  }
+                ],
+                "breakdown": "Expression of gratitude."
+              }
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "type": "multiple_choice",
+          "mandarin": {
+            "hanzi": "माफ याना",
+            "pinyin": "Maaf yana"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Sorry",
+              "mandarin": {
+                "hanzi": "माफ याना",
+                "pinyin": "Maaf yana",
+                "words": [
+                  {
+                    "hanzi": "माफ",
+                    "pinyin": "maaf",
+                    "english": "forgive"
+                  }
+                ],
+                "breakdown": "Polite apology."
+              }
+            },
+            {
+              "id": 2,
+              "english": "Thank you",
+              "mandarin": {
+                "hanzi": "सुभाय",
+                "pinyin": "Subhāy",
+                "words": [
+                  {
+                    "hanzi": "सुभाय",
+                    "pinyin": "subhāy",
+                    "english": "thank you"
+                  }
+                ],
+                "breakdown": "Expression of gratitude."
+              }
+            },
+            {
+              "id": 3,
+              "english": "Please",
+              "mandarin": {
+                "hanzi": "दयकाय",
+                "pinyin": "Dayakāy",
+                "words": [
+                  {
+                    "hanzi": "दयकाय",
+                    "pinyin": "dayakāy",
+                    "english": "please"
+                  }
+                ],
+                "breakdown": "Polite request word."
+              }
+            }
+          ],
+          "correctOptionId": 1
+        }
+      ]
+    },
+    {
+      "id": "1-3",
+      "title": "Introductions",
+      "icon": "person-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 301,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "छ्वःगु नाम खः?",
+            "pinyin": "Chhwagu naam kha?"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "What is your name?",
+              "mandarin": {
+                "hanzi": "छ्वःगु नाम खः?",
+                "pinyin": "Chhwagu naam kha?",
+                "words": [
+                  {
+                    "hanzi": "नाम",
+                    "pinyin": "naam",
+                    "english": "name"
+                  }
+                ],
+                "breakdown": "Asking someone's name."
+              }
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "type": "multiple_choice",
+          "mandarin": {
+            "hanzi": "जिगु नाम राम खः",
+            "pinyin": "Jigu naam Ram kha"
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "My name is Ram",
+              "mandarin": {
+                "hanzi": "जिगु नाम राम खः",
+                "pinyin": "Jigu naam Ram kha",
+                "words": [
+                  {
+                    "hanzi": "जिगु",
+                    "pinyin": "jigu",
+                    "english": "my"
+                  },
+                  {
+                    "hanzi": "नाम",
+                    "pinyin": "naam",
+                    "english": "name"
+                  }
+                ],
+                "breakdown": "Introducing yourself."
+              }
+            },
+            {
+              "id": 2,
+              "english": "Your name is Ram",
+              "mandarin": {
+                "hanzi": "छ्वःगु नाम राम खः",
+                "pinyin": "Chhwagu naam Ram kha",
+                "words": [
+                  {
+                    "hanzi": "छ्वःगु",
+                    "pinyin": "chhwagu",
+                    "english": "your"
+                  }
+                ],
+                "breakdown": "Talking about another person's name."
+              }
+            },
+            {
+              "id": 3,
+              "english": "He is Ram",
+              "mandarin": {
+                "hanzi": "व राम खः",
+                "pinyin": "Wa Ram kha",
+                "words": [
+                  {
+                    "hanzi": "व",
+                    "pinyin": "wa",
+                    "english": "he"
+                  }
+                ],
+                "breakdown": "Introducing someone else."
+              }
+            }
+          ],
+          "correctOptionId": 1
+        }
+      ]
+    }
+  ],
+  "review": {
+    "id": "review-1",
+    "title": "Review: Greetings & Basics",
+    "icon": "flash",
+    "completionCount": 0,
+    "questions": [
+      {
+        "id": 1901,
+        "type": "multiple_choice",
+        "mandarin": {
+          "hanzi": "ज्वजलपा",
+          "pinyin": "Jwojalapa"
+        },
+        "options": [
+          {
+            "id": 1,
+            "english": "Hello / Greetings",
+            "mandarin": {
+              "hanzi": "ज्वजलपा",
+              "pinyin": "Jwojalapa",
+              "words": [
+                {
+                  "hanzi": "ज्वजलपा",
+                  "pinyin": "jwojalapa",
+                  "english": "greetings"
+                }
+              ],
+              "breakdown": "Traditional Nepalbhasa greeting."
+            }
+          },
+          {
+            "id": 2,
+            "english": "Goodbye",
+            "mandarin": {
+              "hanzi": "लसकुस",
+              "pinyin": "Lasakus",
+              "words": [
+                {
+                  "hanzi": "लसकुस",
+                  "pinyin": "lasakus",
+                  "english": "goodbye"
+                }
+              ],
+              "breakdown": "Parting phrase."
+            }
+          },
+          {
+            "id": 3,
+            "english": "Thank you",
+            "mandarin": {
+              "hanzi": "सुभाय",
+              "pinyin": "Subhāy",
+              "words": [
+                {
+                  "hanzi": "सुभाय",
+                  "pinyin": "subhāy",
+                  "english": "thank you"
+                }
+              ],
+              "breakdown": "Expression of gratitude."
+            }
+          }
+        ],
+        "correctOptionId": 1
+      }
+    ]
+  }
+},
+{
+  "id": 3,
+  "title": "Family & People",
+  "lessons": [
+    {
+      "id": "3-1",
+      "title": "Family Members",
+      "icon": "people-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3101,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "आबा",
+            "pinyin": "aaba",
+            "words": [
+              { "hanzi": "आबा", "pinyin": "aaba", "english": "father" }
+            ],
+            "breakdown": "Common term for father in Nepalbhasa."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Father / Dad",
+              "mandarin": {
+                "hanzi": "आबा",
+                "pinyin": "aaba",
+                "words": [
+                  { "hanzi": "आबा", "pinyin": "aaba", "english": "father" }
+                ],
+                "breakdown": "Common term for father in Nepalbhasa."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-2",
+      "title": "Immediate Family",
+      "icon": "woman-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3201,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "आमा",
+            "pinyin": "aama",
+            "words": [
+              { "hanzi": "आमा", "pinyin": "aama", "english": "mother" }
+            ],
+            "breakdown": "Common term for mother."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Mother / Mom",
+              "mandarin": {
+                "hanzi": "आमा",
+                "pinyin": "aama",
+                "words": [
+                  { "hanzi": "आमा", "pinyin": "aama", "english": "mother" }
+                ],
+                "breakdown": "Common term for mother."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-3",
+      "title": "Siblings",
+      "icon": "accessibility-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3301,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "ज्याजु",
+            "pinyin": "jyaaju",
+            "words": [
+              {
+                "hanzi": "ज्याजु",
+                "pinyin": "jyaaju",
+                "english": "older brother"
+              }
+            ],
+            "breakdown": "Older brother."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Older brother",
+              "mandarin": {
+                "hanzi": "ज्याजु",
+                "pinyin": "jyaaju",
+                "words": [
+                  {
+                    "hanzi": "ज्याजु",
+                    "pinyin": "jyaaju",
+                    "english": "older brother"
+                  }
+                ],
+                "breakdown": "Older brother."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-4",
+      "title": "Extended Family",
+      "icon": "git-network-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3401,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "अजु",
+            "pinyin": "aju",
+            "words": [
+              {
+                "hanzi": "अजु",
+                "pinyin": "aju",
+                "english": "grandfather"
+              }
+            ],
+            "breakdown": "Grandfather."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Grandfather",
+              "mandarin": {
+                "hanzi": "अजु",
+                "pinyin": "aju",
+                "words": [
+                  {
+                    "hanzi": "अजु",
+                    "pinyin": "aju",
+                    "english": "grandfather"
+                  }
+                ],
+                "breakdown": "Grandfather."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-5",
+      "title": "Occupations",
+      "icon": "briefcase-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3501,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "गुरु",
+            "pinyin": "guru",
+            "words": [
+              { "hanzi": "गुरु", "pinyin": "guru", "english": "teacher" }
+            ],
+            "breakdown": "Teacher."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Teacher",
+              "mandarin": {
+                "hanzi": "गुरु",
+                "pinyin": "guru",
+                "words": [
+                  {
+                    "hanzi": "गुरु",
+                    "pinyin": "guru",
+                    "english": "teacher"
+                  }
+                ],
+                "breakdown": "Teacher."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3-6",
+      "title": "Describing People",
+      "icon": "body-outline",
+      "completionCount": 0,
+      "questions": [
+        {
+          "id": 3601,
+          "type": "single_response",
+          "mandarin": {
+            "hanzi": "राम्रु",
+            "pinyin": "raamru",
+            "words": [
+              {
+                "hanzi": "राम्रु",
+                "pinyin": "raamru",
+                "english": "beautiful"
+              }
+            ],
+            "breakdown": "Beautiful or pretty."
+          },
+          "options": [
+            {
+              "id": 1,
+              "english": "Beautiful",
+              "mandarin": {
+                "hanzi": "राम्रु",
+                "pinyin": "raamru",
+                "words": [
+                  {
+                    "hanzi": "राम्रु",
+                    "pinyin": "raamru",
+                    "english": "beautiful"
+                  }
+                ],
+                "breakdown": "Beautiful or pretty."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+  ],
+  "scenarios": [
+    {
+      "id": "1",
+      "title": "Ordering Street Food",
+      "icon": "fast-food",
+      "isFree": true,
+      "description": "You are exploring a bustling night market and smell delicious dumplings.",
+      "goal": "Buy dumplings",
+      "tasks": [
+        "Ask what fillings they have",
+        "Ask for spicy sauce",
+        "Pay with cash"
+      ],
+      "difficulty": "Beginner",
+      "phrasebook": [
+        {
+          "hanzi": "请问，有什么馅儿的饺子？",
+          "pinyin": "Qǐngwèn, yǒu shénme xiànr de jiǎozi?",
+          "english": "Excuse me, what fillings do the dumplings have?"
+        },
+        {
+          "hanzi": "我想要一份饺子。",
+          "pinyin": "Wǒ xiǎng yào yí fèn jiǎozi.",
+          "english": "I'd like one portion of dumplings."
+        },
+        {
+          "hanzi": "我要猪肉白菜馅。",
+          "pinyin": "Wǒ yào zhūròu báicài xiàn.",
+          "english": "I want pork and cabbage filling."
+        },
+        {
+          "hanzi": "可以加辣吗？",
+          "pinyin": "Kěyǐ jiā là ma?",
+          "english": "Can you add spicy sauce?"
+        },
+        {
+          "hanzi": "不要太辣。",
+          "pinyin": "Bú yào tài là.",
+          "english": "Not too spicy, please."
+        },
+        {
+          "hanzi": "在这儿吃。",
+          "pinyin": "Zài zhèr chī.",
+          "english": "I'll eat here."
+        },
+        {
+          "hanzi": "我要打包。",
+          "pinyin": "Wǒ yào dǎbāo.",
+          "english": "I want it to go."
+        },
+        {
+          "hanzi": "一共多少钱？",
+          "pinyin": "Yígòng duōshao qián?",
+          "english": "How much is it in total?"
+        },
+        {
+          "hanzi": "可以便宜一点吗？",
+          "pinyin": "Kěyǐ piányi yìdiǎn ma?",
+          "english": "Can it be a little cheaper?"
+        },
+        {
+          "hanzi": "我用现金。",
+          "pinyin": "Wǒ yòng xiànjīn.",
+          "english": "I'll pay with cash."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Checking into a Hotel",
+      "icon": "bed",
+      "isFree": false,
+      "description": "You have just arrived at your hotel after a long flight.",
+      "goal": "Check in",
+      "tasks": ["State your name", "Ask about breakfast", "Ask for Wi-Fi"],
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "3",
+      "title": "Shopping for Souvenirs",
+      "icon": "gift",
+      "isFree": false,
+      "description": "You are in a local gift shop looking for a present.",
+      "goal": "Buy a gift",
+      "tasks": [
+        "Ask for a recommendation",
+        "Ask for gift wrap",
+        "Ask for price"
+      ],
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "4",
+      "title": "Asking for Directions",
+      "icon": "map",
+      "isFree": false,
+      "description": "You are lost in the city center.",
+      "goal": "Find the subway",
+      "tasks": ["Excuse yourself", "Ask where subway is", "Ask how far"],
+      "difficulty": "Beginner"
+    }
+  ]
+}
